@@ -1,0 +1,1 @@
+{"actorSpecification":1,"name":"business-contact-tracking-audit","title":"Business contact and tracking audit","description":"Find business websites and extract public contacts and observable tracking tags.","version":"1.0","input":"./input_schema.json","dockerfile":"../Dockerfile"}

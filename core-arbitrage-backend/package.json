@@ -1,0 +1,1 @@
+{"name":"core-arbitrage-backend","private":true,"version":"1.0.0","type":"module","workspaces":["01-dead-link-hunter","02-apify-rentable-actor","03-b2b-trigger-sniper"],"scripts":{"verify":"node verify-all.js"},"dependencies":{"cheerio":"1.0.0","csv-parse":"^7.0.3","tldts":"^6.1.86"}}

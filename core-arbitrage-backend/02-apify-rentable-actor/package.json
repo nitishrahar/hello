@@ -1,0 +1,14 @@
+{
+  "name": "rentable-business-actor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify": "^3.4.5",
+    "cheerio": "1.0.0",
+    "tldts": "^6.1.86"
+  }
+}
